@@ -1,8 +1,8 @@
 let raceNumber = Math.floor(Math.random()*1000);
 
-let early = true;
+let early = true; //change here
 
-let runnerAge = 18;
+let runnerAge = 18; // and here
 
 if (runnerAge >= 18 && early) {
 
